@@ -7,6 +7,21 @@ Camping website where we can add our favourite places for camping and other user
 * Passport Js
 * Mongo Atlas
 
+## Installation
+- Clone the repo
+```
+git clone https://github.com/m-zest/YelpCamp
+``` 
+- Install Dependencies
+```
+npm install  
+```
+- Run node server
+```
+node app.js   ( listening to  localhost:3000/ ) 
+```
+
+
 ## Screenshots:
 ![Screenshot_2020-08-22 YelpCamp](https://user-images.githubusercontent.com/55718487/90950840-18670c80-e473-11ea-82e1-a241d27be9af.png)
 
