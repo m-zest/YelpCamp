@@ -1,4 +1,4 @@
-# YelpCamp
+# YelpCamp Project
 
 ![Yelpcamp](https://user-images.githubusercontent.com/55718487/225575343-6a6f7982-c336-4452-a638-f5e58a9916c7.jpeg)
 
@@ -88,7 +88,7 @@ Run ```mongod``` in another terminal and ```node app.js``` in the terminal with 
 
 Then go to [localhost:3000](http://localhost:3000/).
 
-Website link - http://18.119.115.235:3001/ or https://tender-bass-jumper.cyclic.app/ 
+Website link - [Yelcamp](http://18.119.115.235:3001/) or [Yelpcamp](https://tender-bass-jumper.cyclic.app/) 
 
 
 
