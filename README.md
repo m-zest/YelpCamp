@@ -88,7 +88,7 @@ Run ```mongod``` in another terminal and ```node app.js``` in the terminal with 
 
 Then go to [localhost:3000](http://localhost:3000/).
 
-Website link - [Yelcamp](http://18.119.115.235:3001/) or [Yelpcamp](https://tender-bass-jumper.cyclic.app/) 
+Website link - http://18.119.115.235:3001/ or https://tender-bass-jumper.cyclic.app/ 
 
 
 
