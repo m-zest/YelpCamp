@@ -7,7 +7,7 @@
 
 Yelpcamp is fully functional NodeJs web app where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of web dev course which was done during code-along bootcamp.
 
-This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.  
+This project was created using Node.js, Express, MongoDB, ejs, HTML5, CSS3, Javascript, and Bootstrap. Passport.js was used to handle authentication.  
 
 ## Features
 * Users can create, edit, and remove campgrounds
