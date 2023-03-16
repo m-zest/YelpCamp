@@ -5,7 +5,7 @@
 ![HOME](https://user-images.githubusercontent.com/55718487/225570167-5cc232f8-b95c-43e4-be8c-72c4957dcc4c.jpeg)
 
 
-Yelpcamp is fully functional NodeJs web app where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of web dev course which was done during code-along bootcamp.
+Yelpcamp is fully functional NodeJs web app where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of website devevelopment which was done during code-along bootcamp in college.
 
 This project was created using Node.js, Express, MongoDB, ejs, HTML5, CSS3, Javascript, and Bootstrap. Passport.js was used to handle authentication.  
 
